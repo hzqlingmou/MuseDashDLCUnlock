@@ -2,6 +2,9 @@
 
 Wanted to buy Just as Planned but missed the deadline? Don't want to buy DLC at all but still want to freeload? This is the mod for you.
 
+> ![note]
+> 这是一个用于存档的fork仓库，[原仓库链接](https://github.com/WitherOrNot/MuseDashDLCUnlock)
+
 ## Instructions
 
 1. Install [MelonLoader](https://melonwiki.xyz/#/) to the Muse Dash folder
